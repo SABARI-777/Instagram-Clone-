@@ -1,0 +1,207 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "name": "John Doe",
+      "profilePic": "/src/assets/pic4.jpg"
+    },
+    {
+      "id": "2",
+      "username": "jane_smith",
+      "name": "Jane Smith",
+      "profilePic": "/src/assets/pic4.jpg"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "userId": 1,
+      "pic": "/src/assets/pic4.jpg",
+      "username": "john_doe",
+      "image": "/src/assets/pic4.jpg",
+      "caption": "Enjoying the view! 🌄",
+      "likes": 300,
+      "comments": "Wow! Where is this?",
+      "createdAt": "2025-09-28T14:23:00Z"
+    },
+    {
+      "id": "2",
+      "username": "jane_smith",
+      "userId": 2,
+      "pic": "/src/assets/s2.jpg",
+      "image": "/src/assets/s2.jpg",
+      "caption": "New art piece ✍️",
+      "likes": 200,
+      "comments": "Nice car",
+      "createdAt": "2025-09-29T10:45:00Z"
+    },
+    {
+      "id": "3",
+      "userId": 3,
+      "username": "jane",
+      "pic": "/src/assets/img6.jpg",
+      "image": "/src/assets/img6.jpg",
+      "caption": "New art piece ✍️",
+      "likes": 100,
+      "comments": "New art piece ✍️",
+      "createdAt": "2025-09-29T10:45:00Z"
+    },
+    {
+      "id": "4",
+      "userId": 4,
+      "pic": "/src/assets/img8.jpg",
+      "username": "john",
+      "image": "/src/assets/img6.jpg",
+      "caption": "New art piece ✍️",
+      "likes": 400,
+      "comments": "Symbol of Love ",
+      "createdAt": "2025-09-29T10:45:00Z"
+    },
+    {
+      "id": "5",
+      "username": "doe",
+      "userId": 5,
+      "pic": "/src/assets/img10.jpg",
+      "image": "/src/assets/img6.jpg",
+      "caption": "New art piece ✍️",
+      "likes": "1k",
+      "comments": "london city",
+      "createdAt": "2025-09-29T10:45:00Z"
+    }
+  ],
+  "profile": [
+    {
+      "id": "1",
+      "username": "SABARI D",
+      "name": "Alice Wonder",
+      "profilePic": "/src/assets/img5.jpg"
+    }
+  ],
+  "suggestions": [
+    {
+      "id": "1",
+      "username": "sara_connor",
+      "name": "Sara Connor",
+      "profilePic": "/src/assets/img3.jpg",
+      "reason": "New to Instagram"
+    },
+    {
+      "id": "2",
+      "username": "tony_stark",
+      "name": "Tony Stark",
+      "profilePic": "/src/assets/img8.jpg",
+      "reason": "Popular"
+    },
+    {
+      "id": "3",
+      "username": "mike_tyson",
+      "name": "Mike Tyson",
+      "profilePic": "/src/assets/pic5.jpg",
+      "reason": "Follows you"
+    },
+    {
+      "id": "4",
+      "username": "sara_connor",
+      "name": "Sara Connor",
+      "profilePic": "/src/assets/s3.jpg",
+      "reason": "New to Instagram"
+    },
+    {
+      "id": "5",
+      "username": "tony_stark",
+      "name": "Tony Stark",
+      "profilePic": "/src/assets/s1.jpg",
+      "reason": "Popular"
+    },
+    {
+      "id": "6",
+      "username": "mike_tyson",
+      "name": "Mike Tyson",
+      "profilePic": "/src/assets/pic1.jpg",
+      "reason": "Follows you"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "userId": 1,
+      "pic": "/src/assets/s5.jpg",
+      "username": "john_doe",
+      "image": "/src/assets/s5.jpg"
+    },
+    {
+      "id": "2",
+      "username": "jane_smith",
+      "userId": 2,
+      "pic": "/src/assets/pic2.jpg",
+      "image": "/src/assets/pic2.jpg"
+    },
+    {
+      "id": "3",
+      "userId": 3,
+      "username": "jane",
+      "pic": "/src/assets/pic3.jpg",
+      "image": "/src/assets/pic3.jpg"
+    },
+    {
+      "id": "4",
+      "userId": 4,
+      "pic": "/src/assets/s4.jpg",
+      "username": "john",
+      "image": "/src/assets/s4.jpg"
+    },
+    {
+      "id": "5",
+      "username": "doe",
+      "userId": 5,
+      "pic": "/src/assets/s2.jpg",
+      "image": "/src/assets/s2.jpg"
+    },
+    {
+      "id": "6",
+      "userId": 6,
+      "pic": "/src/assets/s1.jpg",
+      "username": "john_doe",
+      "image": "/src/assets/s1.jpg"
+    },
+    {
+      "id": "7",
+      "username": "jane_smith",
+      "userId": 7,
+      "pic": "/src/assets/s3.jpg",
+      "image": "/src/assets/s3.jpg"
+    },
+    {
+      "id": "8",
+      "userId": 8,
+      "username": "jane",
+      "pic": "/src/assets/pic1.jpg",
+      "image": "/src/assets/pic1.jpg"
+    },
+    {
+      "id": "9",
+      "userId": 9,
+      "pic": "/src/assets/pic4.jpg",
+      "username": "john",
+      "image": "/src/assets/pic4.jpg"
+    }
+  ],
+  "followers": [
+    {
+      "id": "3",
+      "username": "mike_tyson",
+      "profilePic": "/src/assets/pic5.jpg"
+    },
+    {
+      "id": "4",
+      "username": "sara_connor",
+      "profilePic": "/src/assets/s3.jpg"
+    },
+    {
+      "id": "5",
+      "username": "tony_stark",
+      "profilePic": "/src/assets/s1.jpg"
+    }
+  ]
+}

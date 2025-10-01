@@ -1,0 +1,65 @@
+.w-20{
+  width: 20%;
+}
+.w-30{
+    width: 30%;
+}
+.logo
+{
+ width: 150px;
+  height: 90px;
+}
+
+.bi{
+  margin-right: 10px;
+}
+
+.story{
+  height: 75px;
+  padding: 10px;
+}
+
+.dp{
+  width: 30px;
+  height: 30px;
+  margin-top: 5px;
+  margin-right: 5px;
+}
+
+.image{
+  height: 300px;
+  width: 400px;
+}
+
+.suggetions .dp{
+  margin-top: 0px;
+}
+.suggetions h4{
+  font-size: 18px;
+}
+
+
+.gradient-border{
+  width: 53px;
+  height: 53px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: linear-gradient(45deg, #ff00ff, #ff6600, #ffcc00);
+}
+.story-dp{
+  width: 50px;
+  height: 50px;
+}
+
+.profile{
+  height: 100px;
+  width: 100px;
+}
+
+.follower{
+  height: 50px;
+  width: 50px;
+
+}
