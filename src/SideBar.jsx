@@ -9,7 +9,7 @@ function SideBar() {
   return (
     <div className="m-3 position-fixed">
     <div className='d-flex flex-column gap-3'>
-        <img className="logo" src="\src\assets\instagram-text.png "/>
+        <img className="logo" src="\public\assets\instagram-text.png "/>
         <div> <i className="bi bi-house"></i> Home</div>
         <div> <i className="bi bi-search"></i> Search</div>
         <div > <i className="bi bi-compass"></i> Explore</div>

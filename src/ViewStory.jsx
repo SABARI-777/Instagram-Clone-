@@ -15,7 +15,7 @@ function ViewStory() {
     
     const navigate = useNavigate();
 
-    if(id<0){
+    if(id<=0){
         navigate("/");
     }
     if(id>=tot){
